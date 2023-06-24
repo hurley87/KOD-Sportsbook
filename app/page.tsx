@@ -8,6 +8,7 @@ export default function Home() {
         <Image alt="KOD logo" width={124} height={32} src="/logo.svg" />
         <ConnectButton />
       </nav>
+      <p>Hello world</p>
     </main>
   );
 }

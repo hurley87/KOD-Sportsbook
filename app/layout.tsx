@@ -2,7 +2,6 @@ import "./globals.css";
 import "@rainbow-me/rainbowkit/styles.css";
 
 import { Raleway } from "next/font/google";
-import Image from "next/image";
 import { Providers } from "./providers";
 
 const raleway = Raleway({ subsets: ["latin"] });
